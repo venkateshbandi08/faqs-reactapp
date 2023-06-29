@@ -1,0 +1,36 @@
+/* Write your code here. */
+
+.faqs-app-main-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.faqs-container {
+  background-color: #ffffff;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  border-radius: 15px;
+  width: 1000px;
+}
+.faqs-main-heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+.faqs-list-container {
+}
+.answer-container {
+}
+.answer-text {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
